@@ -1,2 +1,0 @@
-# Feedbacklamp
-Feedbacklamp project PTW
