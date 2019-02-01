@@ -1,0 +1,11 @@
+body{
+    font: 14px sans-serif; 
+    background-color: yellowgreen;
+}
+.wrapper {  
+  position: absolute;
+  top:25%;
+  left:40%;
+  width: 350px;
+  padding: 20px; 
+}
