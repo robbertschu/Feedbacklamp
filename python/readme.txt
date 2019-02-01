@@ -1,0 +1,1 @@
+start het start_mic.py bestand om de setup te starten
