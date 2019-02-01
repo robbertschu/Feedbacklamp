@@ -88,7 +88,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
                 <div class="container-fluid">
                     <ul class="navbar-mobile__list list-unstyled">
                         <li class="has-sub">
-                            <a class="js-arrow" href="/feedbacklamp/dashboard/index.php">
+                            <a class="js-arrow" href="/Feedbacklamp/dashboard/index.php">
                                 <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                         </li>
                         
@@ -109,7 +109,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
                 <nav class="navbar-sidebar">
                     <ul class="list-unstyled navbar__list">
                         <li class="active has-sub">
-                            <a class="js-arrow" href="/feedbacklamp/dashboard/index.php">
+                            <a class="js-arrow" href="/Feedbacklamp/dashboard/index.php">
                                 <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                         </li>
                         <li class="active has-sub">
